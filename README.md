@@ -14,6 +14,7 @@
 > pip install pandas
 > pip install matplotlib
 > pip install yfinance
+> pip install -u skit-learn
 ```
 #### After the following installations you are good to go
 - - - -
