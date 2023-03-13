@@ -4,7 +4,10 @@
 #### The application uses linear regressor machine learning model and the yfinance API in order to get up to date stock prices. It helps us to determine how the organization is doing at the moment and is written in Python and Streamlit supporting the front and backend for the web application
 - - - -
 ### Setup
-###
+#### Clone the repository by download or via the link below:
+```
+https://github.com/AAbhijithA/DCSMA.git
+```
 #### We can use anaconda for this so download anaconda and run a virtual environment and open the terminal in the anaconda navigator
 #### Do the following installations in the anaconda terminal opened (These are the frameworks/libraries used)
 ```
