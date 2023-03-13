@@ -4,8 +4,9 @@
 #### The application uses linear regressor machine learning model and the yfinance API in order to get up to date stock prices. It helps us to determine how the organization is doing at the moment and is written in Python and Streamlit supporting the front and backend for the web application
 - - - -
 ### Setup
+###
 #### We can use anaconda for this so download anaconda and run a virtual environment and open the terminal in the anaconda navigator
-#### Do the following installations in the anaconda terminal opened
+#### Do the following installations in the anaconda terminal opened (These are the frameworks/libraries used)
 ```
 > pip install streamlit
 > pip install streamlit_lottie
@@ -18,7 +19,7 @@
 #### After the following installations you are good to go
 - - - -
 ### Running the Application
-#### To run the application use the following command
+#### To run the application use the following command after going to the directory
 ```
 > streamlit run Introduction.py
 ```
