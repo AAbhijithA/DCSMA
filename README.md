@@ -5,6 +5,10 @@ DCSMA (Dream Companies Stock Market Analysis) is a one stop application to under
 
 The application uses linear regressor machine learning model and the yfinance API in order to get up to date stock prices. It helps us to determine how the organization is doing at the moment and is written in Python and Streamlit supporting the front and backend for the web application
 - - - -
+### Run the App
+The app is hosted on streamlit cloud and you can access it via this link given: 
+[Run DCSMA](https://aabhijitha-dcsma-introduction-lxtdd2.streamlit.app/)
+- - - -
 ### Functionalities
 * Choice of the analysis of the 6 most sought out software companies.
 * It uses the yfinance API to get real time information of the stocks.
