@@ -2,6 +2,7 @@
 DCSMA (Dream Companies Stock Market Analysis) is a one stop application to understanding more about the stock market of your dream companies
 
 ![](Prototype-gif/App-gif.gif)
+
 The application uses linear regressor machine learning model and the yfinance API in order to get up to date stock prices. It helps us to determine how the organization is doing at the moment and is written in Python and Streamlit supporting the front and backend for the web application
 - - - -
 ### Setup
