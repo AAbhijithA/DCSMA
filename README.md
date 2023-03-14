@@ -29,7 +29,7 @@ Do the following installations in the anaconda terminal opened (These are the fr
 > pip install pandas
 > pip install matplotlib
 > pip install yfinance
-> pip install -u sckit-learn
+> pip install scikit-learn
 ```
 After the following installations you are good to go
 - - - -
