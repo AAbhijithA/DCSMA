@@ -93,10 +93,10 @@ def LRgraph(company : str):
         c2.write("The score of the model is: "+str(scr2))
         v1 = LGR1.coef_[0,0]
         v2 = LGR2.coef_[0,0]
-        with st.expander("Check to see the verdict (with respect to coeficients from the model)"):
+        with st.expander("Check to see the verdict (with respect to coefficients from the model)"):
             think = load_lottiefile("animations/thinking.json")
             st_lottie(think,speed = 1,reverse = False,quality = "high",height = "10%",width = "70%",key = None)
-            if ((v1*v2) >= 0.8):
+            if ((v1*v2) >= 1.3):
                 st.write("The organization is doing great enough and is safe to invest in.\nYou could try to catch up on the long term investment route here.")
             elif ((v1*v2) >= 0.4):
                 st.write("There might be a few downfalls but it might be risky to invest in it currently\nmainly due to the fact it can go either way if you are a short term invester.")
